@@ -44,5 +44,4 @@ Then enter the path to the folder you want to organize (or press Enter for curre
 ## Tech Used
 - Python 3 standard library (`os`, `shutil`, `pathlib`, `datetime`)
 
-## Repository
-synent-task5-fileorganizer-yourname
+
